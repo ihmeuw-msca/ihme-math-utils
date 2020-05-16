@@ -1,5 +1,5 @@
 """
-Written by @aksholokov
+Written by @aksholokhov
 """
 
 import numpy as np
