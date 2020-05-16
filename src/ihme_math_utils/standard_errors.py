@@ -1,3 +1,7 @@
+"""
+Written by @aksholokov
+"""
+
 import numpy as np
 from typing import List, Iterable
 import pandas as pd
